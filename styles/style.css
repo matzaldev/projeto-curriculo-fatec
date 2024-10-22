@@ -55,19 +55,19 @@ div h3{
   border: 10px;
 }
 #linkedin{
-  list-style-image: url(/assets/linkedin-161-svgrepo-com\ \(1\).svg);
+  list-style-image: url(assets/linkedin-161-svgrepo-com (1).svg);
 }
 #whatsapp{
-  list-style-image: url(/assets/whatsapp-128-svgrepo-com.svg);
+  list-style-image: url(assets/whatsapp-128-svgrepo-com.svg);
 }
 #github{
-  list-style-image: url(/assets/github-142-svgrepo-com.svg);
+  list-style-image: url(assets/github-142-svgrepo-com.svg);
 }
 #stackoverflow{
-  list-style-image: url(/assets/stackoverflow-svgrepo-com.svg);
+  list-style-image: url(assets/stackoverflow-svgrepo-com.svg);
 }
 #nonelist{
-  list-style-image: url(/assets/university-svgrepo-com\ \(1\).svg);
+  list-style-image: url(assets/university-svgrepo-com (1).svg);
 }
 #dsm{
   list-style-image: url(/assets/instagram-svgrepo-com.svg);
@@ -85,10 +85,10 @@ div h3{
   list-style-type: none;
 }
 #ultrafarma{
-  list-style-image: url(/assets/work-case-filled-svgrepo-com\ \(1\).svg);
+  list-style-image: url(assets/work-case-filled-svgrepo-com (1).svg);
 }
 #homefibra{
-  list-style-image: url(/assets/work-case-filled-svgrepo-com\ \(1\).svg);
+  list-style-image: url(assets/work-case-filled-svgrepo-com (1).svg);
 }
 a{
   color: black;
